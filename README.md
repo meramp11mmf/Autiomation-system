@@ -1,7 +1,7 @@
 # 🔄  Animation Loop with Python in Blender
 
 
- 🎥(https://github.com/meramp11mmf/Autiomation-system/blob/main/Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif)
+🎥 ![Preview](https://github.com/meramp11mmf/Autiomation-system/blob/main/Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif)
 
 
 This project automates the creation of a **seamless looping animation** in **Blender** using **Python** and the `bpy` API. It features procedural geometry, custom materials, lighting, camera setup, and animation — all generated and animated entirely through code.

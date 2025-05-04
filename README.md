@@ -1,6 +1,7 @@
-# 🔄 Automation System – Procedural Animation with Blender & Python
+# 🔄  Animation Loop with Python in Blender
 
- 🎥 [Click here to watch the preview]![Preview](https://github.com/meramp11mmf/Autiomation-system/blob/main/Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif)
+
+ 🎥(https://github.com/meramp11mmf/Autiomation-system/blob/main/Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif)
 
 
 This project automates the creation of a **seamless looping animation** in **Blender** using **Python** and the `bpy` API. It features procedural geometry, custom materials, lighting, camera setup, and animation — all generated and animated entirely through code.
@@ -41,11 +42,6 @@ A polished, looping 3D animation of rotating rings with dynamic lighting and ele
 
 ---
 
-## 📁 Project Structure
 
-```plaintext
-├── main.py           # Blender animation script
-├── media/
-│   └── preview.mp4   # Output preview video
 ├── README.md
 
